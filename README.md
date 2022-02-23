@@ -64,3 +64,6 @@ Click on the grey box in the middle of your  ``||variables:set [mySprite] to spr
 to open the image editor.
 Either draw your own fish, or choose one from the gallery.
 
+## Byeeee
+
+Click **"Finish"** so you can publish your game to share with family and friends.
